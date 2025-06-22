@@ -25,7 +25,7 @@ Conntact me®️⭐
     <td align="center" width="50%">
       <h3>Fork Repository</h3>
       <p>Customize the bot for your needs</p>
-      <a href="https://github.com/sesco001/JOKER-Md-V2/fork">
+      <a href="https://github.com/sesco001/Makamesco-Md-V2/fork">
         <img src="https://img.shields.io/badge/FORK-purple?style=for-the-badge" alt="Fork Button">
       </a>
     </td>
@@ -48,7 +48,7 @@ Conntact me®️⭐
     <td align="center" width="50%">
       <h3>Contact Developer</h3>
       <p>Get in touch with creator for deployment</p>
-      <a href="https://wa.me/+2540739285768?text=I_need_bot_Sir_ill_pay">
+      <a href="https://wa.me/+255717560971?text=I_need_bot_Sir_ill_pay">
         <img src="https://img.shields.io/badge/Contact-green?style=for-the-badge" alt="Contact Developer">
       </a>
     </td>
