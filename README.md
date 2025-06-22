@@ -1,5 +1,12 @@
 # JOKER-XMD
-Most powerful bot 💯
+Most powerful bot💯
+Made by Joker 😑 from
+Tanzania 🇹🇿 don't forget 
+To fork the repo❤️‍🔥 and
+Star my bot 👣 for any problem
+Conntact me®️⭐ 
+™️+255717560971 
+™️+255618072219 
 
 # JOKER-MD-V.2
 
