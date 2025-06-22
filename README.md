@@ -6,7 +6,7 @@ Most powerful bot 💯
 <h3 align="center">"..STAY ON TRACK EVERYONE IS..MAD..."</h3>
 
 <div align="center">
-  <img src="https://files.catbox.moe/sigghy.jpg" alt="JOKER-MD-V.2 Banner" width="400" />
+  <img src="https://files.catbox.moe/m9lztq.jpg" alt="JOKER-MD-V.2 Banner" width="400" />
   
   <hr style="width: 80%; margin: 20px auto; border: 0.5px solid #333;" />
 </div>
